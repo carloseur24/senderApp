@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/api/previews/[previewClass]/[previewFunction]": "pages/api/previews/[previewClass]/[previewFunction].js",
+  "/api/previews": "pages/api/previews.js",
+  "/api/previews/send": "pages/api/previews/send.js",
+  "/api/render": "pages/api/render.js",
+  "/intercepts/[interceptId]": "pages/intercepts/[interceptId].html",
+  "/intercepts/mock": "pages/intercepts/mock.html",
+  "/": "pages/index.js",
+  "/previews/[previewClass]/[previewFunction]": "pages/previews/[previewClass]/[previewFunction].js",
+  "/404": "pages/404.html"
+}

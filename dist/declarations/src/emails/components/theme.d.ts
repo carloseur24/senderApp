@@ -1,0 +1,10 @@
+export declare const black = "#000";
+export declare const grayDark = "#888";
+export declare const grayLight = "#f5f5f5";
+export declare const textSm = 14;
+export declare const textBase = 16;
+export declare const textLg = 24;
+export declare const textXl = 30;
+export declare const leadingTight = "120%";
+export declare const leadingRelaxed = "160%";
+export declare const borderBase = 2;
